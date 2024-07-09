@@ -1,0 +1,7 @@
+﻿to AlwaysPass
+	LogSuccess "The test case passed"
+end AlwaysPass
+
+to AlwaysFail
+	LogError "The test case failed"
+end AlwaysFail
